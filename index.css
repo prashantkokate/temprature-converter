@@ -1,0 +1,37 @@
+#container{
+    height: 300px;
+    width: 500px;
+    background-color: aqua;
+    text-align:center ;
+    padding-top: 100px;
+    
+    
+} 
+h2{
+    font-weight: bold;
+    color: brown;
+} 
+#cel:focus{
+   background-color: aqua;
+}
+#fer:focus{
+    background-color: aqua;
+}
+h3{
+    display: inline;
+}
+#btn{
+    display: block;
+    margin-top: 20px;
+    margin-left: 200px;
+    color: brown;
+    font-size: 20px;
+    
+}
+#btn:hover{
+    background-color: blue;
+}
+#btn:active{
+    background-color: aqua;
+    text-align: center;
+}
